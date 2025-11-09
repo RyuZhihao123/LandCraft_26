@@ -18,4 +18,4 @@ in the Fortieth Annual AAAI Conference on Artificial Intelligence (AAAI). 2026.
 
 ----
 
-## This site is now under construction.
+## This repo is now under preparation.
