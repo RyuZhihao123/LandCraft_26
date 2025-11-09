@@ -11,6 +11,8 @@ Naoto Yokoya.
 in the Fortieth Annual AAAI Conference on Artificial Intelligence (AAAI). 2026.
 </h5>
 
+[[video]](https://drive.google.com/file/d/19YhIlKtvT-ArlBtoxMCijB1eF_LOLRHO/view)
+
 ## This repo is now under preparation (2025/11/09).
 
 <div align="center">
