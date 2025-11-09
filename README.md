@@ -11,11 +11,11 @@ Naoto Yokoya.
 in the Fortieth Annual AAAI Conference on Artificial Intelligence (AAAI). 2026.
 </h5>
 
+## This repo is now under preparation (2025/11/09).
+
 <div align="center">
   <img src="https://github.com/RyuZhihao123/LandCraft_26/blob/main/teaser.png">
 </div>
 
 
 ----
-
-## This repo is now under preparation.
