@@ -1,10 +1,13 @@
-# LandCraft_26
+<h2 align="center">
+    LandCraft: Designing the Structured 3D Landscapes via Text Guidance.
+</h2>
 
-**LandCraft: Designing the Structured 3D Landscapes via Text Guidance.**
+<h5 align="center">Zhihao Liu*,
+Fang Liu*,
+Weihao Xuan,
+Naoto Yokoya.
+</h5>
 
-Zhihao Liu*, Fang Liu*, Weihao Xuan, Naoto Yokoya.
-
-The Fortieth Annual AAAI Conference on Artificial Intelligence (AAAI). 2026.
-
---- 
-Under construction.
+<div align="center">
+  <img src="https://github.com/RyuZhihao123/LandCraft_26">
+</div>
