@@ -21,3 +21,13 @@ in the Fortieth Annual AAAI Conference on Artificial Intelligence (AAAI). 2026.
 
 
 ----
+Step1: LLM inference.
+
+Step2: Map Generator.
+
+Weight download.
+Configuration.
+
+Step3: Compositional Generation of 3D scenes.
+
+
