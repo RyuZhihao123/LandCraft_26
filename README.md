@@ -13,7 +13,7 @@ in the Fortieth Annual AAAI Conference on Artificial Intelligence (AAAI). 2026.
 
 [[video]](https://drive.google.com/file/d/19YhIlKtvT-ArlBtoxMCijB1eF_LOLRHO/view)
 
-## This repo is now under preparation, will be updated after my recent PhD defense (2026.02).
+## This repo is now under preparation, will be updated after my recent PhD defense (2026.01).
 
 <div align="center">
   <img src="https://github.com/RyuZhihao123/LandCraft_26/blob/main/teaser.png">
