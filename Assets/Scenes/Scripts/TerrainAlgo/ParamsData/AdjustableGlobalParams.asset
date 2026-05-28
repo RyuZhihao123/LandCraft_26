@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfee1ce4cebbc5e468c67f552dacf89a, type: 3}
+  m_Name: AdjustableGlobalParams
+  m_EditorClassIdentifier: 
+  show_height_map: 0
+  global_scaling: 0.1
+  length: 600
+  width: 600
+  terrain_style: 0
+  predefine_label_map: {fileID: 2800000, guid: 2df224c4224f28541b9f252fecc515ce, type: 3}
+  predefine_height_map: {fileID: 2800000, guid: 61a0d33182b775647b52e207a2ebe7d8, type: 3}
+  terrain_noise_type: 0
+  base_noise_seed: 1193
+  base_noise_scale: 300
+  base_noise_amplify: 120
+  base_noise_octaves: 9
+  base_noise_persistence: 0.42
+  base_noise_lacunarity: 2.56
+  base_noise_offset: {x: 156.5, y: 878.1}
+  gradient_trick_decay: 0.00007
+  base_noise_curve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.0008201599
+      value: 0.01828003
+      inSlope: 0.13512522
+      outSlope: 0.13512522
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.47037056
+      value: 0.08172813
+      inSlope: 0.34594083
+      outSlope: 0.34594083
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.11408228
+      outWeight: 0.11603438
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1.7338006
+      outSlope: 1.7338006
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  mountainMinHeightLineRate: 0.26
+  mountain_middle_rate: 0.45
+  mountain_bottom_rate: 0.22
+  mountain_cliff_rate: 73.8
+  mountain_texture_noise_scale: 9.1
+  PlainGrassRate: 0.399
+  PlainTransitionRadii: 0.426
+  plain_texture_noise_scale: 138
+  globalTreeExistRate: 0.15
+  defaultTreeDensityThreshold: 0.63
+  defaultTreeTransitionThreshold: 0.52
+  defaultTreeWildThreshold: 0.55
+  desertTreeDensityThreshold: 0.76
+  desertTreeTransitionThreshold: 0.37
+  desertTreeWildThreshold: 0.16
+  parkTreeThreshold: 0.06
+  treePerlinScale: 112.3
+  treeHeightLine: 220.1
+  zh_mntTree_MinHeightLine_Rate: 0.22
+  zh_mntTree_reduction_rate: 0.119
+  apply_small_noise_globally: 1
+  remove_small_noise_on_city: 0
+  plain_noise_seed: 260
+  plain_noise_scale: 124.7
+  plain_noise_amplify: 0.87
+  plain_noise_octaves: 9
+  plain_noise_persistence: 0.5
+  plain_noise_lacunarity: 2.4
+  plain_noise_offset: {x: 0.57, y: 4.67}
+  plain_noise_hill_curve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  lake_num: 1
+  apply_grid_city_mode: 0
+  RoadMaxHeightLineOnTheWild: 0
+  water_refracting_color: {r: 0.101960786, g: 0.5019608, b: 0.5019608, a: 1}
+  water_scattering_color: {r: 0.3764706, g: 0.627451, b: 0.65882355, a: 1}
+  water_depth: 1.49
+  city_floodfill_height_threshold: {x: 8.93, y: 14}
+  lake_floodfill_height_threshold: {x: 8.92, y: 12.6}
+  enable_grass: 0
+  python_path_option: 3
+  open_night_light: 0
+  point_light_lower_min_intensity: 200000
+  point_light_lower_max_intensity: 500000
+  point_light_upper_min_intensity: 1000000
+  point_light_upper_max_intensity: 1500000
+  point_light_upper_prob_intensity: 0.374
+  point_light_min_range: 8
+  point_light_max_range: 20
+  point_light_rate: 0.3

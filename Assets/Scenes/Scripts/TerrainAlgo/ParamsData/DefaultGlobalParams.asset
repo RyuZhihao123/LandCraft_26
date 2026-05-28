@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfee1ce4cebbc5e468c67f552dacf89a, type: 3}
+  m_Name: DefaultGlobalParams
+  m_EditorClassIdentifier: 
+  global_scaling: 0.1
+  length: 200
+  width: 200
+  bs_freq: 0.01
+  bs_amplitude: 35
+  height_curve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 6.233535
+      outSlope: 6.233535
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.03746903
+      value: 0.2335645
+      inSlope: 4.364044
+      outSlope: 4.364044
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.08191405
+      value: 0.3710363
+      inSlope: 1.3587525
+      outSlope: 1.3587525
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.0798634
+    - serializedVersion: 3
+      time: 0.5256902
+      value: 0.5256902
+      inSlope: 0.058873434
+      outSlope: 0.058873434
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.1288669
+    - serializedVersion: 3
+      time: 0.83688223
+      value: 0.7199031
+      inSlope: 1.2583257
+      outSlope: 1.2583257
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.94384944
+      value: 0.94989187
+      inSlope: 1.848518
+      outSlope: 1.848518
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0.89238894
+      outSlope: 0.89238894
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  noise_seed: 0
+  noise_scale: 160
+  noise_octaves: 5
+  noise_persistence: 0.5
+  noise_lacunarity: 2.3
+  noise_offset: {x: 0, y: 0}
+  mountainInfos: []
+  snow_percentage_over_max_height: 0.7
+  city_low_range: 0.05
+  city_high_range: 0.15
+  tree_low_range: 0.05
+  tree_high_range: 0.4
+  draw_grass: 0
+  grass_density: 3
+  grass_density_height_over_max_height: 0.6
+  grass_material: {fileID: 0}
+  python_path_option: 0
